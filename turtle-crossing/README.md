@@ -95,10 +95,10 @@ Defines the `Scoreboard` class, which:
 ## Screenshots
 
 ### Start of the Game
-![Start Game](https://github.com/HimkarSingh/turtle-crossing/blob/main/start_game.PNG)
+![Start Game](https://github.com/HimkarSingh/python-projects/blob/main/turtle-crossing/start_game.PNG)
 
 ### Game Over Screen
-![Game Over](https://github.com/HimkarSingh/turtle-crossing/blob/main/game_over.PNG)
+![Game Over](https://github.com/HimkarSingh/python-projects/blob/main/turtle-crossing/game_over.PNG)
 
 ---
 
