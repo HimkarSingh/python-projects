@@ -66,9 +66,9 @@ Defines the `Scoreboard` class, which:
 - Shows a game-over message when the game ends.
 
 ## Demo
-![Snake Game Demo](https://github.com/HimkarSingh/snake-game/blob/main/game_start.PNG)
+![Snake Game Demo](https://github.com/HimkarSingh/python-projects/blob/main/snake-game/game_start.PNG)
 ### Game Over
-![Game Over](https://github.com/HimkarSingh/snake-game/blob/main/game_over.PNG)
+![Game Over](https://github.com/HimkarSingh/python-projects/blob/main/snake-game/game_over.PNG)
 
 ## Future Enhancements
 
