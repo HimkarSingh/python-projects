@@ -78,10 +78,10 @@ To use the Pomodoro Timer, ensure you have:
 ## Screenshots
 
 ### Timer at Start
-![Start Timer](https://github.com/HimkarSingh/pomodoro/blob/main/start_timer.PNG)
+![Start Timer](https://github.com/HimkarSingh/python-projects/blob/main/pomodoro/start_timer.PNG)
 
 ### Timer During Work Interval
-![Work Timer](https://github.com/HimkarSingh/pomodoro/blob/main/work_timer.png)
+![Work Timer](https://github.com/HimkarSingh/python-projects/blob/main/pomodoro/tomato.PNG)
 
 ---
 
